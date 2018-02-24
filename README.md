@@ -1,5 +1,5 @@
 SRIDHARAN
 
-Assignment1:Webpage design using html5 and css3 in 960 grid system :Present in folder : "Assignment 1"
+Webpage describing various tourist spots in India .It is designed using html5 and css3 in 960 grid system.
  
  
